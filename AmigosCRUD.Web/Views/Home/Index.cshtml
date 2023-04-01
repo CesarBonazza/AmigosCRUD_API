@@ -1,0 +1,32 @@
+﻿@model IList<AmigosCRUD.Domain.Entities.Amigo>
+@{
+    ViewData["Title"] = "Lista de Amigos";
+}
+
+<h1 class="text-center">@ViewData["Title"]</h1>
+<div class="table-responsive">
+    <table class="table table-hover table-striped">
+        <thead class="thead-dark">
+            <tr>
+                <th>Nome</th>
+                <th>Sobrenome</th>
+                <th>E-mail</th>
+                <th>Telefone</th>
+                <th>Aniversário</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var amigo in Model)
+            {
+                <tr>
+                    <td>@amigo.Nome</td>
+                    <td>@amigo.Sobrenome</td>
+                    <td>@amigo.Email</td>
+                    <td>@amigo.Ntelefone</td>
+                    <td>@amigo.Niversario.ToShortDateString()</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    <p>Os procedimentos CRUD são inteiramente feitos pela API.</p>
+</div>

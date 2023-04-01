@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\AmigosCRUD\AmigosCRUD.Services\bin\Debug\net7.0\AmigosCRUD.Services.deps.json
+C:\Users\User\source\repos\AmigosCRUD\AmigosCRUD.Services\bin\Debug\net7.0\AmigosCRUD.Services.dll
+C:\Users\User\source\repos\AmigosCRUD\AmigosCRUD.Services\bin\Debug\net7.0\AmigosCRUD.Services.pdb
+C:\Users\User\source\repos\AmigosCRUD\AmigosCRUD.Services\obj\Debug\net7.0\AmigosCRUD.Services.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\AmigosCRUD\AmigosCRUD.Services\obj\Debug\net7.0\AmigosCRUD.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\AmigosCRUD\AmigosCRUD.Services\obj\Debug\net7.0\AmigosCRUD.Services.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\AmigosCRUD\AmigosCRUD.Services\obj\Debug\net7.0\AmigosCRUD.Services.AssemblyInfo.cs
+C:\Users\User\source\repos\AmigosCRUD\AmigosCRUD.Services\obj\Debug\net7.0\AmigosCRUD.Services.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AmigosCRUD\AmigosCRUD.Services\obj\Debug\net7.0\AmigosCRUD.Services.dll
+C:\Users\User\source\repos\AmigosCRUD\AmigosCRUD.Services\obj\Debug\net7.0\refint\AmigosCRUD.Services.dll
+C:\Users\User\source\repos\AmigosCRUD\AmigosCRUD.Services\obj\Debug\net7.0\AmigosCRUD.Services.pdb
+C:\Users\User\source\repos\AmigosCRUD\AmigosCRUD.Services\obj\Debug\net7.0\ref\AmigosCRUD.Services.dll
+C:\Users\User\source\repos\AmigosCRUD\AmigosCRUD.Services\bin\Debug\net7.0\AmigosCRUD.Services.runtimeconfig.json
+C:\Users\User\source\repos\AmigosCRUD\AmigosCRUD.Services\bin\Debug\net7.0\AmigosCRUD.Domain.dll
+C:\Users\User\source\repos\AmigosCRUD\AmigosCRUD.Services\bin\Debug\net7.0\AmigosCRUD.Domain.pdb
+C:\Users\User\source\repos\AmigosCRUD\AmigosCRUD.Services\obj\Debug\net7.0\AmigosCRUD.Services.csproj.CopyComplete
+C:\Users\User\source\repos\AmigosCRUD\AmigosCRUD.Services\obj\Debug\net7.0\AmigosCRUD.Services.genruntimeconfig.cache

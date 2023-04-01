@@ -1,0 +1,65 @@
+﻿Descrição de acesso ao metódo GET (Read)
+
+Endpoint:
+/Amigos
+
+Parâmetros:
+
+Nulo
+
+Metódo:
+GET
+
+Headers:
+Authorization - Microsoft Indentity / Authentication
+
+//----------------------------------------//----------------------------------------//
+
+Descrição de acesso ao metódo CREATE 
+
+Endpoint:
+/Amigos/NovoAmigo
+
+Parâmetros:
+
+Nome | Sobrenome | Email | NTelefone (Número de telefone) | Niversario (Data de aniversário)
+
+Metódo:
+POST
+
+Headers:
+Authorization - Microsoft Indentity / Authentication
+
+//----------------------------------------//----------------------------------------//
+
+Descrição de acesso ao metódo DELETE 
+
+Endpoint:
+/Amigos/{Id}
+
+Parâmetros:
+
+Id
+
+Metódo:
+DELETE
+
+Headers:
+Authorization - Microsoft Indentity / Authentication
+
+//----------------------------------------//----------------------------------------//
+
+Descrição de acesso ao metódo UPDATE 
+
+Endpoint:
+/Amigos
+
+Parâmetros:
+
+Id | Nome | Sobrenome | Email | NTelefone (Número de telefone) | Niversario (Data de aniversário)
+
+Metódo:
+PUT
+
+Headers:
+Authorization - Microsoft Indentity / Authentication

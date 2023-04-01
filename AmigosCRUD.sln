@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AmigosCRUD.API", "AmigosCRUD.API\AmigosCRUD.API.csproj", "{AAC8066E-B936-4F8C-88B2-CB24C5DE113F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AmigosCRUD.Domain", "AmigosCRUD.Domain\AmigosCRUD.Domain.csproj", "{9BAE0AB0-D942-4C75-9F4A-1A1C7DDD0596}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AmigosCRUD.Services", "AmigosCRUD.Services\AmigosCRUD.Services.csproj", "{51B16FD1-F62B-4839-BAC9-D5175A1F9A3A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AmigosCRUD.Web", "AmigosCRUD.Web\AmigosCRUD.Web.csproj", "{FE1B016C-0834-49A0-A11A-9B5BCAB7B875}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAC8066E-B936-4F8C-88B2-CB24C5DE113F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAC8066E-B936-4F8C-88B2-CB24C5DE113F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAC8066E-B936-4F8C-88B2-CB24C5DE113F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAC8066E-B936-4F8C-88B2-CB24C5DE113F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BAE0AB0-D942-4C75-9F4A-1A1C7DDD0596}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BAE0AB0-D942-4C75-9F4A-1A1C7DDD0596}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BAE0AB0-D942-4C75-9F4A-1A1C7DDD0596}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BAE0AB0-D942-4C75-9F4A-1A1C7DDD0596}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51B16FD1-F62B-4839-BAC9-D5175A1F9A3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51B16FD1-F62B-4839-BAC9-D5175A1F9A3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51B16FD1-F62B-4839-BAC9-D5175A1F9A3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51B16FD1-F62B-4839-BAC9-D5175A1F9A3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE1B016C-0834-49A0-A11A-9B5BCAB7B875}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE1B016C-0834-49A0-A11A-9B5BCAB7B875}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE1B016C-0834-49A0-A11A-9B5BCAB7B875}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE1B016C-0834-49A0-A11A-9B5BCAB7B875}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C1D47FE-037B-4C6B-8E98-CD7BDA6899D7}
+	EndGlobalSection
+EndGlobal
